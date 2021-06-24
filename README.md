@@ -2,7 +2,7 @@
 Assignment of Java course\
 ATM made by JOptionPane
 
-#Cash Point properties:
+# Cash Point properties:
 • Cash balance is stored as floating-point numbers, display up to two decimal places.\
 • Deposit user input is assumed to be integer, no type checking is needed. Only check for a valid range.\
 • Withdrawal user input is assumed to be integer, no type checking; Round & breakdown amount based on

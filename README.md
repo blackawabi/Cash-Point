@@ -1,6 +1,6 @@
 # Cash-Point
 Assignment of Java course\
-ATM made by JOptionPane
+ATM made based on JOptionPane
 
 # Cash Point properties:
 • Cash balance is stored as floating-point numbers, display up to two decimal places.\
